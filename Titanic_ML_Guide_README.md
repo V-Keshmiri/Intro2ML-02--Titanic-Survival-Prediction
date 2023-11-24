@@ -93,4 +93,4 @@ print(f"Model accuracy: {accuracy:.2f}")
 This README guides you through the process of using machine learning to predict survival on the Titanic. Each step, from data preprocessing to model evaluation, plays a crucial role in the overall performance of the model.
 
 ## Author
-(Your Name)
+Vahid Keshmiri
